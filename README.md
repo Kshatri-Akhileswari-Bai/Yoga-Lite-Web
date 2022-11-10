@@ -1,7 +1,7 @@
 # Yoga-Lite-Web
 Yoga Website
 
-## MY WEBSITE LINK IS : https://calm-field-09580bf00.2.azurestaticapps.net
+## MY WEBSITE LINK IS : 
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
