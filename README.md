@@ -3,10 +3,40 @@ Yoga Website
 
 ## MY WEBSITE LINK IS : https://calm-field-09580bf00.2.azurestaticapps.net
 
-## WEB Page Screen Shots:
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-![Screenshot (39)](https://user-images.githubusercontent.com/116656919/198554165-273d8266-d43c-4242-aedc-20d2848ad37c.png)
-![Screenshot (41)](https://user-images.githubusercontent.com/116656919/198554228-bcce79f1-874f-405b-87f2-8f07012b64f9.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/116656919/198554305-6b243a82-e985-4aac-9642-38bcf97c48d0.png)
-![Screenshot (44)](https://user-images.githubusercontent.com/116656919/198554433-b642c0ee-31c4-4f46-977c-ec7cc98cb5ea.png)
-![Screenshot (45)](https://user-images.githubusercontent.com/116656919/198554464-10789de2-4268-446c-bd88-93a15f29c1f0.png)
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : Lifestyle
+
+Project Title : Yoga
+
+Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+
+Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+
+Primary Azure Technology : Static Web Apps, App Service
+
+Static Web App URL : 
+
+App Services URL : 
+## Home Page
+![Screenshot (3)](https://user-images.githubusercontent.com/116656919/201009467-46b87d54-380f-45e9-9226-45a45622254a.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/116656919/201009678-7844288a-30da-4bef-8dd4-04e647a2e750.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/116656919/201009706-182aa733-6a68-4dab-a4c6-87e150198305.png)
+
+## About
+![Screenshot (6)](https://user-images.githubusercontent.com/116656919/201009745-d6c2ea0f-f9a6-4622-8d8a-249008b9eeff.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/116656919/201009773-bbe90245-827b-49be-b508-0889c23fd834.png)
+
+## Contact
+![Screenshot (7)](https://user-images.githubusercontent.com/116656919/201010028-ebad0bbc-44b3-4efe-a49e-306e657184d6.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/116656919/201010124-8886a460-6da0-46ec-a1b0-111d201a0a1f.png)
+
+
+
+
+
+
