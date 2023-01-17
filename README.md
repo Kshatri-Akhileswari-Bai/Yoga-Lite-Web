@@ -34,9 +34,15 @@ App Services URL : https://yoga-lite-web.azurewebsites.net
 ![Screenshot (7)](https://user-images.githubusercontent.com/116656919/201010028-ebad0bbc-44b3-4efe-a49e-306e657184d6.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/116656919/201010124-8886a460-6da0-46ec-a1b0-111d201a0a1f.png)
 
+## Demo video
+https://user-images.githubusercontent.com/116656919/212881280-14e58a61-22fc-4788-9593-5d1d2604de36.mp4
+
 
 ## SERVICES USED
 ![Screenshot (9)](https://user-images.githubusercontent.com/116656919/201063862-cb276a1f-2d0b-47b2-a9eb-15122d73ac59.png)
+![image](https://user-images.githubusercontent.com/116656919/212880836-0d0e50e8-fb7f-477e-951a-6d5819da07c7.png)
+![image](https://user-images.githubusercontent.com/116656919/212880696-02762b2a-9d3b-4d49-97b5-d18bff985a3c.png)
+
 
 
 
